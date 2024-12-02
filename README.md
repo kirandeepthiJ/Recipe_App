@@ -1,4 +1,4 @@
-Recipe App 🍳
+##Recipe App 🍳
 Recipe App is a modern recipe management platform designed to make cooking a creative and enjoyable journey. Built with React.js, the app provides an intuitive and seamless user experience for home cooks, professional chefs, health enthusiasts, busy professionals, and beginners alike.
 
 🌟 Features
